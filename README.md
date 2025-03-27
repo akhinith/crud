@@ -54,7 +54,11 @@ CV MITRA is an AI-powered resume-checking platform designed to assist job seeker
 - **Resume Review by Experts**: Option for candidates to get human feedback from professionals.
 
 ## Contributors
-- CRUD Team (Team 8)
+- CRUD Team No 8
+- Aswin Ganga
+- Arjun D
+- Akhinith P
+- Ajay M Nambiar 
 
 ## License
 This project is open-source and available under the MIT License.
