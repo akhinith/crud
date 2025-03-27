@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: url('https://img.freepik.com/free-photo/abstract-blur-hotel-interior_1203-8529.jpg?t=st=1743074879~exp=1743078479~hmac=347d6a21f857688b390289e187b5687d414dec17fb45a3c8c9710d257f900eee&w=996') no-repeat center center/cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.register-container {
+    background: rgba(255, 255, 255, 0.2); /* More transparency */
+    backdrop-filter: blur(10px); /* Blurry effect */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, 0.4); /* Subtle border */
+}
+
+
+.register-container h2 {
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.register-container input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.register-container button {
+    width: 100%;
+    padding: 10px;
+    background: #007bff;
+    border: none;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.register-container button:hover {
+    background: #0056b3;
+}
