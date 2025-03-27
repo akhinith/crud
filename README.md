@@ -10,7 +10,7 @@ CV MITRA is an AI-powered resume-checking platform designed to assist job seeker
 ## Features
 - **Resume Analysis**: Users receive a detailed breakdown of their resume, highlighting strengths and weaknesses.
 - **ATS Score Calculation**: The system evaluates resumes based on industry-standard ATS criteria to help candidates optimize their applications.
-- **Community Support**: A dedicated space for job seekers to share insights, get feedback, and improve their resumes.
+- **Community Support**: A dedicated space for job seekers to share insights, get feedback, and improve their resumes.(optional)
 - **Effortless Recruitment**: Companies can quickly filter and shortlist candidates based on their ATS scores and resume analysis.
 
 ## Technologies Used
