@@ -62,3 +62,5 @@ CV MITRA is an AI-powered resume-checking platform designed to assist job seeker
 
 ## License
 This project is open-source 
+
+mwone scene
