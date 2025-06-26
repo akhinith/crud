@@ -16,7 +16,7 @@ CV MITRA is an AI-powered resume-checking platform designed to assist job seeker
 ## Technologies Used
 - **Frontend**: HTML, CSS
 - **Backend**: JavaScript
-- **API**: chatGPT API and API Layer 
+- **API**: chatGPT API and API Layer. 
 
 ## How to Use
 1. Upload your resume in PDF or DOCX format.
